@@ -1,0 +1,13 @@
+.myButton {
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid teal;
+  padding: 8px 15px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.myButton:hover {
+  background-color: teal;
+  color: white;
+}
